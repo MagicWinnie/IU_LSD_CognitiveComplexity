@@ -2,15 +2,16 @@
 
 ## How to run LLM time estimation
 
-1. Make sure you have Python 3.10 or later.
-2. Install the dependencies (you may create a virtual environment):
+1. Install Ollama tool [here](https://ollama.com/download).
+2. Clone this repository.
+3. Make sure you have Python 3.10 or later.
+4. Install the dependencies (you may create a virtual environment):
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3. Install Ollama tool [here](https://ollama.com/download).
-4. Run these commands in terminal:
+5. Run these commands in terminal:
     - Gemma 3 12B (8.1 GB)
 
         ```bash
