@@ -11,7 +11,7 @@
 
 3. Install Ollama tool [here](https://ollama.com/download).
 4. Run these commands in terminal:
-    - Gemma 3 12B
+    - Gemma 3 12B (8.1 GB)
 
         ```bash
         ollama pull gemma3:12b
@@ -19,7 +19,7 @@
         ollama rm gemma3:12b
         ```
 
-    - Llama 3.1 8B
+    - Llama 3.1 8B (4.9 GB)
 
         ```bash
         ollama pull llama3.1:8b
@@ -27,7 +27,7 @@
         ollama rm llama3.1:8b
         ```
 
-    - Mistral 7B
+    - Mistral 7B (4.1 GB)
 
         ```bash
         ollama pull mistral:7b
@@ -35,7 +35,7 @@
         ollama rm mistral:7b
         ```
 
-    - Granite 3.3 8B
+    - Granite 3.3 8B (4.9 GB)
 
         ```bash
         ollama pull granite3.3:8b
