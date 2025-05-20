@@ -11,7 +11,7 @@
     pip install -r requirements.txt
     ```
 
-5. Run these commands in terminal:
+5. Run these commands in a new terminal:
     - Gemma 3 12B (8.1 GB)
 
         ```bash
